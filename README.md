@@ -30,9 +30,3 @@ python agent.py
 |---|---|---|---|---|---|
 | Baseline | ... | /10 | /10 | /10 | /30 |
 | + business rules | ... | | | | |
-
-## What failed and why
-(2-3 honest examples)
-
-## Limitations
-- Strict result matching; only one database; no conversation 
