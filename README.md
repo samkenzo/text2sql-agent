@@ -35,4 +35,4 @@ python agent.py
 (2-3 honest examples)
 
 ## Limitations
-- Strict result matching; only one database; no conversation memory
+- Strict result matching; only one database; no conversation 
